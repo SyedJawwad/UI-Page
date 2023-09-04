@@ -25,7 +25,7 @@
     background: #1890c5;
     font-size: 24px;
     font-weight: 500;
-    border: 3px solid #555;
+    border: 3px solid #1890c5;
     border-left: none;
     height: auto;
     border-radius: 0 50px 50px 0 !important;
@@ -34,4 +34,13 @@
 .nav-link {
     font-size: 1.2rem !important;
     font-weight: 500 !important;
+}
+.para{
+    margin-left:50px;
+}
+.badge{
+    background-color: rgb(50, 50, 233);
+    text-decoration: none;
+    font-size: 0.9rem !important;
+    width: 120px;
 }
